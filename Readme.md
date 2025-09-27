@@ -1,4 +1,3 @@
-4) README.md (append or replace content)
 ## OpenWeatherMap upgrade
 
 This app uses OpenWeatherMap with an API key.
@@ -28,4 +27,5 @@ streamlit run app.py
 ### Notes
 - Geocoding → current conditions → next-24h forecast.
 - Caching 5 minutes. Simple retries for transient failures.
+
 - Units toggle: Metric or Imperial.
