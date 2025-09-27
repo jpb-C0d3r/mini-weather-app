@@ -1,7 +1,6 @@
-# Streamlit Weather (Junior)
+# Streamlit Weather
 
-Minimal Streamlit app using wttr.in JSON. No API key.
-
+Minimal Streamlit app using wttr.in JSON.
 ## Run
 ```bash
 python -m venv .venv
@@ -10,3 +9,4 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
+
